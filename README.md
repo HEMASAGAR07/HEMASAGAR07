@@ -91,7 +91,6 @@
 - Explainable AI
 - End-to-End Deployment
 
-👉 (Project link here)
 
 ---
 
