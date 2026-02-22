@@ -35,15 +35,18 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[Linkedin](https://www.linkedin.com/in/sanisetty-hemasagar/)" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+
+<a href="https://www.linkedin.com/in/sanisetty-hemasagar/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/> LinkedIn
 </a>
+
+<br>
 
 <a href="mailto:hemasagar89@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
+📧 hemasagar89@gmail.com
 </a>
-</p>
 
+</p>
 ---
 
 ## 🛠️ Languages & Tools
